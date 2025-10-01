@@ -1,0 +1,63 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "legacy_uid": "dc37df83-c5c8-c854-5d4b-4f13e9c04a57",
+  "instructors": {
+    "content": [
+      "7f6cc374-a076-4fd1-7855-0c0eba3d47a4",
+      "81a7b7fc-4d59-9533-8cef-a77565f79073"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "33e5aa68-47cd-390a-978c-109e612e01e9",
+    "website": "20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006"
+  },
+  "course_title": "Foundations of Algorithms and Computational Techniques in Systems Biology",
+  "hide_download": true,
+  "course_description": "This subject describes and illustrates computational approaches to solving problems in systems biology. A series of case-studies will be explored that demonstrate how an effective match between the statement of a biological problem and the selection of an appropriate algorithm or computational technique can lead to fundamental advances. The subject will cover several discrete and numerical algorithms used in simulation, feature extraction, and optimization for molecular, network, and systems models in biology.\n",
+  "department_numbers": [
+    "20",
+    "6"
+  ],
+  "extra_course_numbers": "6.581J",
+  "primary_course_number": "20.482J",
+  "course_image_thumbnail": {
+    "content": "7274f751-bb05-84b8-cab0-9641e7431f69",
+    "website": "20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "a1a0c27e-ab6e-43ea-a4de-25ba7dcb1162",
+  "site_short_id": "20.482j-spring-2006",
+  "site_url_path": "courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006",
+  "title": "Course Metadata"
+}
