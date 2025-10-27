@@ -5,8 +5,6 @@ description: This resource includes 2 problems based on Modeling the dynamics of
 file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/4462b948d7637bdc623dbe978bd7a816_ps2.pdf
 file_size: 937139
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

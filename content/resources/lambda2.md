@@ -4,8 +4,6 @@ description: This resource is a supporting file for problem set 5.
 file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/87ae668a99688547cb2355d5da50d179_lambda2.m
 file_size: 2918
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

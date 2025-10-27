@@ -39,7 +39,6 @@
     "website": "20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006"
   },
   "course_title": "Foundations of Algorithms and Computational Techniques in Systems Biology",
-  "hide_download": true,
   "course_description": "This subject describes and illustrates computational approaches to solving problems in systems biology. A series of case-studies will be explored that demonstrate how an effective match between the statement of a biological problem and the selection of an appropriate algorithm or computational technique can lead to fundamental advances. The subject will cover several discrete and numerical algorithms used in simulation, feature extraction, and optimization for molecular, network, and systems models in biology.\n",
   "department_numbers": [
     "20",
@@ -51,7 +50,6 @@
     "content": "7274f751-bb05-84b8-cab0-9641e7431f69",
     "website": "20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

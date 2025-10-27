@@ -4,8 +4,6 @@ description: This resource contains course notes on the topic- Kronecker Product
 file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/6b6ebc6b4bd040a60b769f02fa4e730f_kronecker.pdf
 file_size: 193681
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

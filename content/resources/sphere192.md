@@ -4,8 +4,6 @@ description: This resource is a supporting file for problem set 3.
 file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/778b21ca3b2e1102103a91915e18cc18_sphere192.qif
 file_size: 19169
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
